@@ -1,0 +1,12 @@
+C:\Users\vitor\source\Spec-Driven-Development\balta-desafio-halloween-2026-spec-driven-02\src\ShortLink.Core\bin\Debug\net10.0\ShortLink.Core.deps.json
+C:\Users\vitor\source\Spec-Driven-Development\balta-desafio-halloween-2026-spec-driven-02\src\ShortLink.Core\bin\Debug\net10.0\ShortLink.Core.dll
+C:\Users\vitor\source\Spec-Driven-Development\balta-desafio-halloween-2026-spec-driven-02\src\ShortLink.Core\bin\Debug\net10.0\ShortLink.Core.pdb
+C:\Users\vitor\source\Spec-Driven-Development\balta-desafio-halloween-2026-spec-driven-02\src\ShortLink.Core\obj\Debug\net10.0\ShortLink.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\Spec-Driven-Development\balta-desafio-halloween-2026-spec-driven-02\src\ShortLink.Core\obj\Debug\net10.0\ShortLink.Core.AssemblyInfoInputs.cache
+C:\Users\vitor\source\Spec-Driven-Development\balta-desafio-halloween-2026-spec-driven-02\src\ShortLink.Core\obj\Debug\net10.0\ShortLink.Core.AssemblyInfo.cs
+C:\Users\vitor\source\Spec-Driven-Development\balta-desafio-halloween-2026-spec-driven-02\src\ShortLink.Core\obj\Debug\net10.0\ShortLink.Core.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\Spec-Driven-Development\balta-desafio-halloween-2026-spec-driven-02\src\ShortLink.Core\obj\Debug\net10.0\ShortLink.Core.sourcelink.json
+C:\Users\vitor\source\Spec-Driven-Development\balta-desafio-halloween-2026-spec-driven-02\src\ShortLink.Core\obj\Debug\net10.0\ShortLink.Core.dll
+C:\Users\vitor\source\Spec-Driven-Development\balta-desafio-halloween-2026-spec-driven-02\src\ShortLink.Core\obj\Debug\net10.0\refint\ShortLink.Core.dll
+C:\Users\vitor\source\Spec-Driven-Development\balta-desafio-halloween-2026-spec-driven-02\src\ShortLink.Core\obj\Debug\net10.0\ShortLink.Core.pdb
+C:\Users\vitor\source\Spec-Driven-Development\balta-desafio-halloween-2026-spec-driven-02\src\ShortLink.Core\obj\Debug\net10.0\ref\ShortLink.Core.dll
